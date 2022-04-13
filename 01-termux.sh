@@ -40,3 +40,7 @@ yadm \
 cronie \
 zsh \
 mosh
+
+#pip
+pkg install python
+pip3 install speedtest-cli tldr
