@@ -39,6 +39,7 @@ tmate \
 yadm \
 cronie \
 zsh \
+exa \
 mosh
 
 #pip
