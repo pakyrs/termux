@@ -39,7 +39,7 @@ tmate \
 yadm \
 cronie \
 zsh \
-proot \
+proot-distro \
 exa \
 mosh
 
